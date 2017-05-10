@@ -1,0 +1,9 @@
+# Tweeting-through-Raspberry-Pi *in progress
+I will walk you through the process which allows one to tweet through their Raspberry Pi device.
+
+The first step is to have a Raspberry Pi, HDMI, AC chord to power the Pi, and a SD Card. 
+I will not show you how to set-up a Pi but here's a link that shows you how to do so: <link?>
+Once the Pi is set up and running you need to open the pi's teminal and input the following commands:
+sudo xxxxxxx
+sudo xxxxxxx
+
